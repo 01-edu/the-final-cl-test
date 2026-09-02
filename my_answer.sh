@@ -1,5 +1,5 @@
 #!/bin/bash
-sed -n '2~2p'
+sed -n '1~2p'
 
 
 
