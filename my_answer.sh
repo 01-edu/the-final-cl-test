@@ -1,6 +1,2 @@
 #!/bin/bash
-sed -n '1~2p'
-
-
-
-
+sed -n "1~2p"
